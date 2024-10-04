@@ -1,5 +1,4 @@
 # Projek-analisis-data1
-# Dicoding Collection Dashboard ✨
 
 ## Setup Environment - Anaconda
 ```
